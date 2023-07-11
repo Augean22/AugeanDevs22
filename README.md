@@ -10,11 +10,10 @@ Me apasiona el aprendizaje continuo en tecnologías y habilidades que permitan m
 ---
 
 ###  About Me :
-- I upload videos
-- Ask me about • *PHP, Laravel, Python, 'avascript••
-- Hosa to reach me ••carlos.develops@gmail.com••
-- I 'm currently learning • • React.js, Blockchain, web3 ard Solidity••
-- Website [youdevs . conl (youdevs . com)
+- Ask me about •• *Html, Css, Git, javascript y React••
+- To reach me ••demm.mendoza@gmail.com••
+- I 'm currently learning • • React.js, Blockchain, web3 ard  project manager••
+
 
 
 - <div align="left">
