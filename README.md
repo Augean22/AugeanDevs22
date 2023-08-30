@@ -10,7 +10,7 @@ Me apasiona el aprendizaje continuo en tecnologías y habilidades que permitan m
 ---
 
 ###  About Me :
-- Ask me about •• *Html, Css, Git, javascript y React••
+- Ask me about •• *Html, CSS, Git, javascript y React••
 - To reach me ••demm.mendoza@gmail.com••
 - I 'm currently learning • • React.js, Blockchain, web3 ard  project manager••
 
